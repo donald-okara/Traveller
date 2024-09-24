@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "192976269066",
+    "project_id": "traveller-628a9",
+    "storage_bucket": "traveller-628a9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:192976269066:android:1074b199a25ee28987d4f3",
+        "android_client_info": {
+          "package_name": "com.dokara.traveller"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "192976269066-vbiq1jm4bagope08jmjg60lr86ii6of4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.dokara.traveller",
+            "certificate_hash": "e7d7fe1c1c24ff676dcb7a76977d5e5c508bc79a"
+          }
+        },
+        {
+          "client_id": "192976269066-gasmlemu819lj7pntbs4cgrf5c0buntr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC_ts8dDebLA4L0fmfE2Qddn1cozFZ1zys"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "192976269066-gasmlemu819lj7pntbs4cgrf5c0buntr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
